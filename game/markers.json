@@ -1,0 +1,152 @@
+[
+    {
+        "keyword": "# START:MAIN_IMPORTS",
+        "file": "main.py",
+        "marker": "MAIN_IMPORTS"
+    },
+    {
+        "keyword": "# START:MAIN_GAME_CLASS",
+        "file": "main.py",
+        "marker": "MAIN_GAME_CLASS"
+    },
+    {
+        "keyword": "# START:GAME_INIT",
+        "file": "main.py",
+        "marker": "GAME_INIT"
+    },
+    {
+        "keyword": "# START:GAME_RUN_LOOP",
+        "file": "main.py",
+        "marker": "GAME_RUN_LOOP"
+    },
+    {
+        "keyword": "# START:MAIN_ENTRY_POINT",
+        "file": "main.py",
+        "marker": "MAIN_ENTRY_POINT"
+    },
+    {
+        "keyword": "# START:ENGINE_IMPORTS",
+        "file": "engine.py",
+        "marker": "ENGINE_IMPORTS"
+    },
+    {
+        "keyword": "# START:ENGINE_CLASS_HEADER",
+        "file": "engine.py",
+        "marker": "ENGINE_CLASS_HEADER"
+    },
+    {
+        "keyword": "# START:ENGINE_INIT",
+        "file": "engine.py",
+        "marker": "ENGINE_INIT"
+    },
+    {
+        "keyword": "# START:ENGINE_RENDER",
+        "file": "engine.py",
+        "marker": "ENGINE_RENDER"
+    },
+    {
+        "keyword": "# START:ENGINE_RENDER_HISTORY",
+        "file": "engine.py",
+        "marker": "ENGINE_RENDER_HISTORY"
+    },
+    {
+        "keyword": "# START:ENGINE_DRAW_TEXT",
+        "file": "engine.py",
+        "marker": "ENGINE_DRAW_TEXT"
+    },
+    {
+        "keyword": "# START:ENGINE_UPDATE_DISPLAY",
+        "file": "engine.py",
+        "marker": "ENGINE_UPDATE_DISPLAY"
+    },
+    {
+        "keyword": "# START:ENGINE_TICK",
+        "file": "engine.py",
+        "marker": "ENGINE_TICK"
+    },
+    {
+        "keyword": "# START:PLAYER_IMPORTS",
+        "file": "player.py",
+        "marker": "PLAYER_IMPORTS"
+    },
+    {
+        "keyword": "# START:PLAYER_CLASS_HEADER",
+        "file": "player.py",
+        "marker": "PLAYER_CLASS_HEADER"
+    },
+    {
+        "keyword": "# START:PLAYER_INIT",
+        "file": "player.py",
+        "marker": "PLAYER_INIT"
+    },
+    {
+        "keyword": "# START:PLAYER_GENERATE_SPRITE",
+        "file": "player.py",
+        "marker": "PLAYER_GENERATE_SPRITE"
+    },
+    {
+        "keyword": "# START:PLAYER_UPDATE",
+        "file": "player.py",
+        "marker": "PLAYER_UPDATE"
+    },
+    {
+        "keyword": "# START:PLAYER_HANDLE_INPUT",
+        "file": "player.py",
+        "marker": "PLAYER_HANDLE_INPUT"
+    },
+    {
+        "keyword": "# START:CREATURE_IMPORTS",
+        "file": "creature.py",
+        "marker": "CREATURE_IMPORTS"
+    },
+    {
+        "keyword": "# START:CREATURE_CLASS_HEADER",
+        "file": "creature.py",
+        "marker": "CREATURE_CLASS_HEADER"
+    },
+    {
+        "keyword": "# START:CREATURE_INIT",
+        "file": "creature.py",
+        "marker": "CREATURE_INIT"
+    },
+    {
+        "keyword": "# START:CONFIG_SETTINGS",
+        "file": "config.py",
+        "marker": "CONFIG_SETTINGS"
+    },
+    {
+        "keyword": "# START:CONFIG_COLORS",
+        "file": "config.py",
+        "marker": "CONFIG_COLORS"
+    },
+    {
+        "keyword": "# START:ASSETS_PIXEL_ART",
+        "file": "assets.py",
+        "marker": "ASSETS_PIXEL_ART"
+    },
+    {
+        "keyword": "# START:ENGINE_HANDLE_RESIZE",
+        "file": "engine.py",
+        "marker": "ENGINE_HANDLE_RESIZE"
+    },
+    {
+        "keyword": "# START:FIGHTER_IMPORTS",
+        "file": "fighter.py",
+        "marker": "FIGHTER_IMPORTS"
+    },
+    {
+        "keyword": "# START:FIGHTER_CLASS_HEADER",
+        "file": "fighter.py",
+        "marker": "FIGHTER_CLASS_HEADER"
+    },
+    {
+        "keyword": "# START:FIGHTER_INIT",
+        "file": "fighter.py",
+        "marker": "FIGHTER_INIT"
+    },
+    {
+        "keyword": "# START:FIGHTER_TAKE_DAMAGE",
+        "file": "fighter.py",
+        "marker": "FIGHTER_TAKE_DAMAGE"
+    }
+]
